@@ -1,6 +1,6 @@
-# Cat-Game (title WIP)
+# 2D Platform cat game (title WIP)
 
-Being made in C# using Godot engine 
+Platform game made in C# using the Godot engine 
 
 Premise: the year is 2070. After another successful day of toppling plant pots over in the meowtaverse, cat longs for something with a 
 little more substance to fulfill his menacing desires.
